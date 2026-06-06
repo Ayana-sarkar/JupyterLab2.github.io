@@ -236,7 +236,7 @@
             </div>
             <div class="card">
                 <h2>4.</h2>
-                <img src="creenshot 2026-04-19 233226.png" alt="Data Visualization" class="box-image">
+                <img src="Screenshot 2026-04-19 233226.png" alt="Data Visualization" class="box-image">
                 <p>Setting kind='nearest' switches the behavior to Nearest-Neighbor Interpolation. Instead of drawing smooth curves or connecting the dots with straight diagonal lines, the function f acts like a strict decision-maker that assigns values based purely on proximity.<br> 
                 When a new coordinate (xn) is passed into the function f, it looks for Which original x data point is closest to this new input. It finds the nearest known point.It adopts that exact known point's $y$ value completely. <br> 
                 Because it does not average the points or transition smoothly between them, the resulting graph will look like a series of sharp steps or a jagged staircase.<br> 
