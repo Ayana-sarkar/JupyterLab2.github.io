@@ -199,27 +199,22 @@
 
     <nav>
         <div class="logo">🚀 Learn<span>Jupyter</span></div>
-        <div class="nav-links">
-            <a href="Environmental Management.pdf">ENVS</a>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
-        </div>
     </nav>
 
     <section class="hero">
+        <div class="hero-content">
             <a href="https://ayana-sarkar.github.io/Home2.github.io/" class="btn">Basic</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab4.github.io/" class="btn">Plotting with List</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab5.github.io/" class="btn">Plotting with Arrays</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab2.github.io/" class="btn">Interpolation</a>
             <a href="https://ayana-sarkar.github.io/JupyterLab1.github.io/" class="btn">Special func</a>
-         <div class="hero-content">
+            <a href="https://ayana-sarkar.github.io/JupyterLab3.github.io/" class="btn">Let's Practice more!</a>
             <h1> Interpolation</h1>
             <p>In data science, scientific computing, and engineering, interpolation is a mathematical method used to estimate unknown values that fall between known data points. </p>
          </div>
     </section>
 
     <section id="curriculum" class="curriculum">
-        <div class="grid">
             <div class="card">
                 <h2>1.Polynomial Interpolation</h2>
                 <img src="Screenshot 2026-04-19 232319.png" alt="Data Visualization" class="box-image">
@@ -267,12 +262,7 @@
            kind='cubic' (Cubic Spline): SciPy fits a 3rd-degree polynomial (ax^3 + bx^2 + cx + d) between every pair of points. It ensures that both the slope and the curvature (second derivative) match up seamlessly where the segments meet. This creates an incredibly natural, fluid curve.<br></p>
            <img src="Screenshot 2026-04-19 233612.png" alt="Data Visualization" class="box-image">
            </div>
-        </div>
     </section>
-
-    <footer>
-        <p>&copy; 2026 LearnJupyter Course. Built for future Data Scientists.</p>
-    </footer>
 
 </body>
 </html>
